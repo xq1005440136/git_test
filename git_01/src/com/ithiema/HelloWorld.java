@@ -35,4 +35,9 @@ public class HelloWorld {
 
         System.out.println("hahh");
     }
+    @Test
+    public void testDemo(){
+
+        System.out.println("duixianc");
+    }
 }
