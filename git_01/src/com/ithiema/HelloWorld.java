@@ -40,4 +40,12 @@ public class HelloWorld {
 
         System.out.println("duixianc");
     }
+    @Test
+    public void test5(){
+
+        int a  = 50;
+        int b  = 20;
+
+        System.out.println(a%b);
+    }
 }
